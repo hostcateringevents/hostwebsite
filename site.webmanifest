@@ -1,6 +1,6 @@
-{
+p{
   "name": "HOST Catering Service",
-  "short_name": "HCSE",
+  "short_name": "HCE",
   "description": "HOST Catering Service - Event catering and booking website",
   "start_url": "/",
   "display": "standalone",
